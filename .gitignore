@@ -3,4 +3,5 @@ local_files/
 dataset/
 __pycache__/
 .DS_Store
+dataset.zip
 
